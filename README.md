@@ -15,11 +15,11 @@
 
 <br>
 
-![Content Placeholder]()
+![Content Placeholder](images/content-placeholder.png)
 
 <br>
 
-[Deployment]()
+[Deployment](https://jesterb0206.github.io/Content-Placeholder/)
 
 <br>
 
